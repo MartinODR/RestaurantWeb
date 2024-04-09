@@ -2,7 +2,7 @@
 <?php
  session_start();
  print_r($_SESSION);
- $url_base="http://localhost/MartinWeb/Develoteca/Restaurante/admin/";
+ $url_base="http://localhost/proyectosGitHub/RestaurantWeb/admin/";
              
     if(!isset($_SESSION["usuario"])){       //seguridad para no mostrar las paginas a menos que haya iniciada una sesion 
                                             

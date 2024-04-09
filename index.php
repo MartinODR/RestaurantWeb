@@ -104,7 +104,7 @@ if($_POST){
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#chefs">  </a>
+                    <a class="nav-link" href="#chefs">Our Team</a>
                 </li>
 
                 <li class="nav-item">
@@ -135,7 +135,7 @@ if($_POST){
 
             <h1><?php echo $banner['titulo']; ?></h1> 
             <p><?php echo $banner['descripcion']; ?></p>
-            <a href="<?php echo $banner['link']; ?>" class="btn btn-primary">Ver Menu</a>
+            <a href="<?php echo $banner['link']; ?>" class="btn btn-primary">Menu of the week</a>
             <?php } ?>
         </div>
 
@@ -245,12 +245,12 @@ if($_POST){
 
             <div class="mb-3">
                 <label for="name">Name:</label><br/>
-                <input type="text" class="form-control" id="name" name="nombre" placeholder="Escribe tu nombre..." required><br/>
+                <input type="text" class="form-control" id="name" name="nombre" placeholder="Enter your name..." required><br/>
             </div>
 
             <div class="mb-3">
                 <label for="email">E-MAIL</label><br/>
-                <input type="email" class="form-control" id="email" name="correo" placeholder="Escribe tu correo electronico..." required><br/>
+                <input type="email" class="form-control" id="email" name="correo" placeholder="Enter your email address..." required><br/>
             </div>
             
             <div class="mb-3">
