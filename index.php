@@ -114,8 +114,13 @@ if($_POST){
                 <li class="nav-item">
                     <a class="nav-link" href="#contacto">Contact</a>
                 </li>
+                
                 <li class="nav-item">
                     <a class="nav-link" href="#horario">Schedules</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="admin/login.php" target="blank" >Login</a>
                 </li>
 
             </ul>

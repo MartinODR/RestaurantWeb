@@ -111,7 +111,7 @@
                     <small id="helpId" class="form-text text-muted">Help text</small>
                 </div>
                 <!--bs5-button-default-->
-                <button type="submit" class="btn btn-primary">Entrar</button>
+                <button type="submit" class="btn btn-primary">Login</button>
                 
 
                 </form>
