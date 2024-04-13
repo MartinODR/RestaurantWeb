@@ -1,9 +1,9 @@
 <?php
 
-$servidor="sql212.infinityfree.com";
-$baseDatos="if0_36348325_restaurante";
-$usuario="if0_36348325";
-$contrasenia="HccCPNPBpbPLwNz";
+$servidor="localhost";
+$baseDatos="restaurante";
+$usuario="root";
+$contrasenia="";
 
 try{
 //instruccion de conexion mediante PDO
